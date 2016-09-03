@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package>
+  <name>ros_qt_gui</name>
+  <version>0.0.1</version>
+  <description>Simple Quadrotor Controller.</description>
+  <license>BSD</license>
+  <maintainer email="xliuba@ust.hk">Sam Liu</maintainer>
+  <author email="xliuba@ust.hk">Sam Liu</author>
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+  <build_depend>geometry_msgs</build_depend>
+  <build_depend>roscpp</build_depend>
+  
+  <run_depend>geometry_msgs</run_depend>
+  <run_depend>roscpp</run_depend>
+</package>
