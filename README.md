@@ -1,3 +1,3 @@
 # ros_qt_gui
-hi this is the readme-edits, just for reference
-hello there
+This is a GUI pannel made to remotely control MAVs from PC shore
+Currently this only supports one MAV, where Hover does not work
