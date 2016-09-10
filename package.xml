@@ -4,8 +4,8 @@
   <version>0.0.1</version>
   <description>Simple Quadrotor Controller.</description>
   <license>BSD</license>
-  <maintainer email="xliuba@ust.hk">Sam Liu</maintainer>
-  <author email="xliuba@ust.hk">Sam Liu</author>
+  <maintainer email="xliuba@connect.ust.hk">Sam Liu</maintainer>
+  <author email="xliuba@connect.ust.hk">Sam Liu</author>
 
   <buildtool_depend>catkin</buildtool_depend>
 
